@@ -1,5 +1,5 @@
 ## 👋 Hi, Welcome! I'm **SEUNGJUN LEE**
-
+-안녕하세요. 이승준입니다. 
 
 ## 📝 Blog
 👉 https://seungjun-rithm.tistory.com/
