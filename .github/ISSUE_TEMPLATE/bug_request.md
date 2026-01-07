@@ -1,3 +1,12 @@
+---
+name: bug_request
+about: Create a report to help us improve
+title: ''
+labels: ''
+assignees: ''
+
+---
+
 <!-- bug_request.md --> 
 
 ## 요약(Summary)
